@@ -51,14 +51,6 @@ function play(computerChoice) {
       `
 }
 
-// compare playerChoice and computerChoice
-
-
-
-
-
-
-
 
 
 // button text
